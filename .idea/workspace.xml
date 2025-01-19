@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25aefc09-be40-4a4a-9b41-57fe98ef7b9b" name="Changes" comment="1.1숫자의 합 구하기">
-      <change afterPath="$PROJECT_DIR$/section1.자료구조/ex1.13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section1.자료구조/ex1.14.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +37,12 @@
   "keyToString": {
     "Python.ex.1.10.executor": "Run",
     "Python.ex1.12.executor": "Run",
+    "Python.ex1.13.executor": "Run",
     "Python.ex1.4.executor": "Run",
     "Python.ex1.6.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
