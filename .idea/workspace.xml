@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25aefc09-be40-4a4a-9b41-57fe98ef7b9b" name="Changes" comment="1.1숫자의 합 구하기">
-      <change afterPath="$PROJECT_DIR$/section1.자료구조/ex1.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section1.자료구조/ex1.13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ex.1.10.executor": "Run",
+    "Python.ex1.12.executor": "Run",
     "Python.ex1.4.executor": "Run",
     "Python.ex1.6.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
