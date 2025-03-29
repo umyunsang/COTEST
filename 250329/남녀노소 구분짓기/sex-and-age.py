@@ -1,10 +1,7 @@
-gender = int(input())
-age = int(input())
+gender = int(input().strip())
+age = int(input().strip())  
 
 if gender == 0:
-    if age < 20: print("BOY")
-    else: print('MAN')
-
+    print("BOY" if age < 20 else "MAN")
 else:
-    if age < 20: print("GIRL")
-    else: print('WOMAN')
+    print("GIRL" if age < 20 else "WOMAN")
